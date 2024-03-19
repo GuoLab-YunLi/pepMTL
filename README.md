@@ -6,14 +6,14 @@ Unleashing Unmatched Predictive Capabilities: pepMTL, an unprecedented multi-pro
 
 This tutorial will guide you through the process of training the pepMTL model, a multi-task learning model for the prediction of RT, CCS, and MS/MS of peptides. The model is built using the pre-trained ESM-2 language model as the backbone and is trained on a dataset of peptide sequences and their corresponding RT, CCS, and MS/MS data.
 
-# Prerequisites
+# Requirements
 Before running the code, make sure you have the following prerequisites installed:
 1.	Python (version 3.11.0)
 2.	NVIDIA GPU (the code is designed to run on a system with an NVIDIA GPU)
 3.	Miniconda (or Anaconda)
 4.	Required Python packages: PyTorch, Transformers, Datasets, NumPy, Pandas, SciPy, Scikit-learn, Tqdm, and ms_entropy
 
-# Setup
+# Environment Setup
 Specific version of the python environment and toolbox listed in requirements.txt has been verified to be available.
 1.	Install Miniconda: If you haven’t already, install Miniconda on your system.
 2.	Create a Python environment: Open the Anaconda Prompt and create a new Python environment named "pepMTL" with Python version 3.11.0 using the following command:
@@ -41,14 +41,17 @@ pip install -r requirements.txt
 spyder
 ```
 
+# Guide to model training and testing
+Tutorials are avaliable in [User guide.docx](https://github.com/GuoLab-YunLi/pepMTL/files/14650612/User.guide.docx)
 
+# Note
+This script is specifically designed for training the pepMTL model on peptide data. Modifications may be required to adapt it for other types of data or models.
 
+# Publications
+Waiting for publication...
 
+# License
+pepMTL is distributed under a Apache-2.0 license. See the LICENSE file for details.
 
-
-
-
-
-
-
-
+# Contacts
+If you have any questions, you can send feedback to liyunsci@163.com.
