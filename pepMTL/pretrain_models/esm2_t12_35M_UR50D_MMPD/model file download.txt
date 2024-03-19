@@ -1,0 +1,3 @@
+ESM-2 (esm2_t12_35M_UR50D_MMPD), a domain-adaptive pre-trained ESM-2 model by massive modified peptide database (MMPD) can be download at https://doi.org/10.5281/zenodo.10832666
+
+
