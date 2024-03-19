@@ -1,1 +1,0 @@
-Download "Results_HeLa_trypsin.zip" file at "https://ftp.pride.ebi.ac.uk/pride/data/archive/2021/01/PXD019086/Results_HeLa_trypsin.zip", and extract the files into the current folder.
