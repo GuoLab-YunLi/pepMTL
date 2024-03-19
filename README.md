@@ -33,7 +33,7 @@ cd C:/Users%USERNAME%/Desktop/pepMTL
 pip install torch==2.1.0 torchvision==0.16.0 torchaudio==2.1.0 --index-url https://download.pytorch.org/whl/cu121
 ```
 6.	Install dependencies: Install the remaining dependencies using the provided requirements.txt file:
-c
+```
 pip install -r requirements.txt
 ```
 7.	Open Spyder: Open the Spyder IDE by running the following command:
