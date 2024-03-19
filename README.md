@@ -26,7 +26,7 @@ conda activate pepMTL
 ```
 4.	Download the pepMTL package and extract it to your desktop. Navigate to the extracted folder using the following command:
 ```
-cd C:/Users%USERNAME%/Desktop/pepMTL
+cd C:/Users/%USERNAME%/Desktop/pepMTL
 ```
 5.	Install PyTorch: Install the required version of PyTorch with CUDA support using the following command:
 ```
